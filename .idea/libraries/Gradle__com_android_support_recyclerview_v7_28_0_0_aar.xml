@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:recyclerview-v7:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/caches/transforms-2/files-2.1/1a53ee0c58cfcd1d5e1452719757c057/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/caches/transforms-2/files-2.1/1a53ee0c58cfcd1d5e1452719757c057/jars/classes.jar!/" />
+      <root url="file://D:/caches/transforms-2/files-2.1/1a53ee0c58cfcd1d5e1452719757c057/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
